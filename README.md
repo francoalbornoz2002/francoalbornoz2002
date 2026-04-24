@@ -34,6 +34,8 @@
 Full Stack Developer with a Backend focus, specialized in the design and development of REST APIs, service architecture, and business logic. Advanced student in Computer Science at FCEQyN – UNaM, close to graduating. Interested in game development with Godot Engine.
 </p>
 
+<br>
+
 <h2>🛠️ Tech Stack</h2>
 
 <h3>IDEs</h3>
