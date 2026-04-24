@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Franco Albornoz 👋</h1>
 
-<!--
-**francoalbornoz2002/francoalbornoz2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.youtube.com/@franco_albornoz_23" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@franco_albornoz_23"  />
+  </a>
+  <a href="https://www.linkedin.com/in/francoandresalbornoz/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@franco_albornoz_23"/>
+  </a>
+  <a href = "mailto:francoandresalbornoz2002@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@franco_albornoz_23"  />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>💻 Tech Stack</h1>
+
+
+<h3>IDEs</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea" />
+  </a>
+<h3>Frontend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,materialui" />
+  </a>
+<h3>Backend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java,spring&theme=light"" />
+  </a>
+<h3>Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
+  </a>
+<h3>Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,notion&theme=light"" />
+  </a>
+
+<h1>📊 GitHub Stats</h1>
+
+![francoalbornoz2002's Stats](https://github-readme-stats.vercel.app/api?username=francoalbornoz2002&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![francoalbornoz2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoalbornoz2002&theme=dark&hide_border=true)
+![francoalbornoz2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francoalbornoz2002&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+<!--> <h1>📬 Contact me</h1>
