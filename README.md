@@ -20,7 +20,29 @@
 <br>
 <img align="center" src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif"/>
 
-<h2>✨ About me </h2>
+<div style="display: flex; flex-wrap: nowrap; align-items: center; width: 100%;">
+
+  <!-- Columna izquierda (60%) -->
+  <div style="width: 60%;">
+    <h2>✨ About me</h2>
+    <p>
+      Soy desarrollador enfocado en backend con Node.js, NestJS y TypeScript.
+      Me interesa la arquitectura de software, la gamificación y el desarrollo
+      de sistemas educativos interactivos.
+    </p>
+  </div>
+
+  <!-- Columna derecha (40%) -->
+  <div style="width: 40%; text-align: right;">
+    <img 
+      src="https://64.media.tumblr.com/ddbe78ca85483428ec8bde6376e9f42d/91d3604b00615041-cd/s400x600/106e89d07aef37ac2a6ac5cf9f32026b3a9ee45e.gifv"
+      alt="Crashito"
+      style="max-width: 100%; height: auto;"
+    />
+  </div>
+
+</div>
+
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -45,13 +67,14 @@
     <img src="https://skillicons.dev/icons?i=postman,docker,notion&theme=light"" />
   </a>
 
-<h1>📊 GitHub Stats</h1>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
 
-![francoalbornoz2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoalbornoz2002&theme=dark&hide_border=true)
-![francoalbornoz2002's Stats](https://github-readme-stats.vercel.app/api?username=francoalbornoz2002&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![francoalbornoz2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francoalbornoz2002&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![francoalbornoz2002's Stats](https://github-readme-stats.vercel.app/api?username=francoalbornoz2002&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+
+![francoalbornoz2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoalbornoz2002&theme=dark&hide_border=false)
 
 </div>
