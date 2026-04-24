@@ -22,7 +22,7 @@
 
 <h2>✨ About me </h2>
 
-<h2>💻 Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <h3>IDEs</h3>
   <a href="https://skillicons.dev">
@@ -47,8 +47,11 @@
 
 <h1>📊 GitHub Stats</h1>
 
+<div align="center">
+
+
+![francoalbornoz2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoalbornoz2002&theme=dark&hide_border=true)
 ![francoalbornoz2002's Stats](https://github-readme-stats.vercel.app/api?username=francoalbornoz2002&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![francoalbornoz2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francoalbornoz2002&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![francoalbornoz2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoalbornoz2002&theme=dark&hide_border=true)
 
-<!--> <h1>📬 Contact me</h1>
+</div>
