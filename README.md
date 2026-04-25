@@ -31,7 +31,7 @@
 />
 
 <p>
-Full Stack Developer with a Backend focus, specialized in the design and development of REST APIs, service architecture, and business logic. Advanced student in Computer Science at FCEQyN – UNaM, close to graduating. Interested in game development with Godot Engine.
+Final-year Computer Science student at FCEQyN – UNaM. Full Stack Developer with experience building web and desktop applications, with a strong focus on backend development. Skilled in designing and developing REST APIs using NestJS and Spring Boot, integrating external services, and implementing service-oriented architecture and business logic. Interested in game development with Godot Engine.
 </p>
 
 <br>
