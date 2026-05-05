@@ -44,15 +44,15 @@ Final-year Computer Science student at FCEQyN – UNaM. Full Stack Developer wit
   </a>
 <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,materialui" />
   </a>
 <h3>Backend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java,spring&theme=light"" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,nestjs,java,spring&theme=light"" />
   </a>
 <h3>Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=light" />
   </a>
 <h3>Tools</h3>
   <a href="https://skillicons.dev">
